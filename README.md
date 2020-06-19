@@ -1,2 +1,2 @@
-npm i
-npm run dev
+# react-ts-boilerplate
+The boilerplate of React-Typescript.
